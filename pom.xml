@@ -65,6 +65,11 @@
 			<artifactId>spring-security-config</artifactId>
 			<version>5.1.4.RELEASE</version>
 		</dependency>
+		<!--Jdbc Templates-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-jdbc</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
